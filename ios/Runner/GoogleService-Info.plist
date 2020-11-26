@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>879610638308-4bkdbv5f80vbkmdssfj4um1k5c4eov96.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.879610638308-4bkdbv5f80vbkmdssfj4um1k5c4eov96</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCRNg94w59_7vg6NU4QOo8btZHrKN547Ew</string>
+	<key>GCM_SENDER_ID</key>
+	<string>879610638308</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.petapp.facul</string>
+	<key>PROJECT_ID</key>
+	<string>petapp-85748</string>
+	<key>STORAGE_BUCKET</key>
+	<string>petapp-85748.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:879610638308:ios:2c2644c8ed39821c1121f1</string>
+	<key>DATABASE_URL</key>
+	<string>https://petapp-85748.firebaseio.com</string>
+</dict>
+</plist>
